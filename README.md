@@ -1,2 +1,2 @@
 # PhotoEditor-Python-
-Photo Editor using Python
+this is a simple Photo Editor using Python
